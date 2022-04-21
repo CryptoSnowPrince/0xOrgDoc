@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gitbook.com	TRUE	/	FALSE	1999999999	cf_ob_info	502:6ff6a57ef42039ed:CDG
+www.gitbook.com	TRUE	/	FALSE	1999999999	cf_use_ob	443
+
